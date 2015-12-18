@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/viewrec"
+        android:title="@string/viewrec"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_list"
+        android:title="@string/action_list"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/zblank"
+        android:title="@string/zblank"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/barabout"
+        android:title="@string/barabout"
+        android:orderInCategory="5"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/zapp"
+        android:title="App"
+        android:icon="@drawable/zxitt"
+        app:showAsAction="ifRoom"/>
+</menu>

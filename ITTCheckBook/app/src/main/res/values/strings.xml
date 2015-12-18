@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ITTCheckBook</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Transactions</string>
+    <string name="viewrec">Display Acct Data</string>
+    <string name="action_list">List of Accounts</string>
+    <string name="zblank">Reset Fields</string>
+    <string name="barabout">App Info.</string>
+    <string name="zaccts">Accounts Screen</string>
+    <string name="zlistra">Trans. List</string>
+    <string name="dlistra">Trans. List</string>
+    <string name="totrans">Add Transactions</string>
+
+    <string name="xtit">ACCOUNT Info.</string>
+    <string name="acctnum">Acct. Number:</string>
+    <string name="afname">First Name:</string>
+    <string name="alname">Last Name:</string>
+    <string name="abname">Bank Name:</string>
+    <string name="abalance">Start Balance:</string>
+    <string name="adate">Date:</string>
+    <string name="rbalance">Running Balance:</string>
+    <string name="dateformat">mm/dd/yyyy</string>
+    <string name="anotes">Notes:</string>
+
+    <string name="trans">ADD TRANSACTIONS</string>
+    <string name="zacct">Account #:</string>
+    <string name="zowner">Account Owner:</string>
+    <string name="tbalance">Current Balance:</string>
+    <string name="tid">Trans. ID:</string>
+    <string name="tdate">Trans. Date:</string>
+    <string name="ttype">Trans. Type:</string>
+    <string name="tamount">Trans. Amount:</string>
+    <string name="tnotes">Notes:</string>
+
+    <string name="jtrans">UPDATE TRANSACTIONS</string>
+    <string name="jxacct">Account #:</string>
+    <string name="jxowner">Account Owner:</string>
+    <string name="jxbalance">Current Balance:</string>
+    <string name="jxid">Transaction ID:</string>
+    <string name="jxdate">Trans. Date:</string>
+    <string name="jxtype">Trans. Type:</string>
+    <string name="jxamount">Trans. Amount:</string>
+    <string name="jxnotes">Notes:</string>
+
+    <string-array name="trans_tipos">
+        <item>DEBIT</item>
+        <item>CREDIT</item>
+    </string-array>
+
+</resources>
